@@ -22,7 +22,7 @@ This project is a simple RESTful API built with Spring Boot to manage student re
 - Java 17+
 - Spring Boot 3.x
 - Spring Data JPA (Hibernate)
-- H2 Database (for testing) / MySQL (optional)
+- MySQL
 - Maven
 
 ---
