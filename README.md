@@ -19,8 +19,8 @@ This project is a simple RESTful API built with Spring Boot to manage student re
 
 ## Technology Stack
 
-- Java 17+
-- Spring Boot 3.x
+- Java 21
+- Spring Boot 3.5.0
 - Spring Data JPA (Hibernate)
 - MySQL
 - Maven
@@ -43,5 +43,4 @@ This project is a simple RESTful API built with Spring Boot to manage student re
    ```bash
    git clone https://github.com/praveeneswarM/StudentManagementSystem_SpringBoot.git
    cd StudentManagementSystem_SpringBoot
-   mvn clean install
-   mvn spring-boot:run
+  
